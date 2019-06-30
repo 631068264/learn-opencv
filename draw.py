@@ -246,7 +246,7 @@ def temp():
         plt.suptitle(meth)
         plt.show()
 
-
+temp()
 def more_temp():
     """匹配多个对象"""
     img_rgb = util.load_img('img/mario.png')
